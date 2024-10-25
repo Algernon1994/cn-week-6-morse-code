@@ -1,5 +1,5 @@
 import mc_to_text
-import text_to_mc
+# import text_to_mc
 
 # print(mc_to_text.morse_code_dict)
 # print(text_to_mc.text_to_morse_code)
