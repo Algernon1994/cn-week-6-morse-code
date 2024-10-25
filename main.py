@@ -45,6 +45,7 @@ def mainMsg():
             translated.append(currentWord)
         
         print(translated)
+        translated.join
 
             
 
